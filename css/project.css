@@ -1,0 +1,18 @@
+/*Aimen Daoub*/
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Header Section */
+header {
+    background: #007bff;
+    color: white;
+}
+
+/* Footer */
+footer {
+    background: #343a40;
+    color: #fff;
+}
